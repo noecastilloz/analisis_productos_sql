@@ -61,5 +61,9 @@ Uso de `CASE WHEN` para clasificar productos en rangos (*Económico*, *Gama Medi
 ```
 ---
 
-🚀 Visualización
+🚀 Visualización y Ejecución
 Revisión estática: Explora las consultas SQL y los resultados navegando directamente en el archivo Análisis_Productos_SQL.ipynb.
+
+Ejecución interactiva: Para ejecutar y probar las consultas SQL en la nube sin instalar SQLite localmente, haz clic en el siguiente botón:
+https://colab.research.google.com/drive/1w8TNBsAox2ZbT_LKtSmHw74Pk_66gN_a?usp=sharing
+
